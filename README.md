@@ -1,3 +1,3 @@
 # Concap 2025 - DETERMINAÇÃO DO NÚMERO DE REYNOLDS PARA ESCOAMENTO DE KOVASZNAY USANDO REDES NEURAIS COM INFORMAÇÃO FÍSICA
 
-Repositório para o trabalho submetido à Concap 2025.
+Repositório para o trabalho submetido ao Concap 2025.
